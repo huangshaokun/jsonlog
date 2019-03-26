@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 
 	"github.com/rs/zerolog"
 	"github.com/spf13/viper"
